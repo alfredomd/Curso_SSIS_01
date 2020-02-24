@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Curso_SSIS_01", "Curso_SSIS_01\Curso_SSIS_01.dtproj", "{C7D38D34-590A-471E-AA3D-A60401E7616D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7D38D34-590A-471E-AA3D-A60401E7616D}.Development|Default.ActiveCfg = Development
+		{C7D38D34-590A-471E-AA3D-A60401E7616D}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85F395E3-DD7A-475B-9531-75BFCE43EE32}
+	EndGlobalSection
+EndGlobal
