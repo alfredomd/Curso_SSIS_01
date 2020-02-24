@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="MAD-MDB-DEV-1.AdventureWorks2017_Alfredo.alfredo"
+  DTS:DTSID="{E0E9F9C5-8C29-4AE2-8A31-8F7D9C97EA19}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=MAD-MDB-DEV-1;User ID=alfredo;Initial Catalog=AdventureWorks2017_Alfredo;Provider=SQLNCLI11.1;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACbOXQUDYcUCNTIyUz2Q7DQAAAAACAAAAAAAQZgAAAAEAACAAAACI/HzBduzcmZb+fmfjCunNLF1+Y0qtN3WFTcJo0WSClAAAAAAOgAAAAAIAACAAAACTuOs6x4sXNbyXYcdCexf9NzcxFPY5DQmJKAeBm8bbgoAAAAB1sd0SxW+5JiWJAMjAh6uZopSNLDCJuweTEzBlKIYHXsdEAOUHsmHutKGj9YdoHIMeo4ZC48awHJTqkN3S7R/BUY5P83x04vHR8wTaKlALDYLI40e/1+5Sbgc7e5RmENJP8HPSmqvJ9h4KlHTbDHXGSxswuF8dTILEJqPJ0cic8UAAAAC4ZopaU07zsuM42Dq0yc8wd+rt3eV58/WDl8G3skBD7OSELpVjClFC6zkx4vXchIsjQaT1ejbJtAFjSIkUqiAW</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
